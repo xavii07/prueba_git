@@ -6,3 +6,8 @@ body {
     line-height: 1.42857143;
     margin: 0;
 }
+
+a {
+    color: #03121f;
+    text-decoration: none;
+}
